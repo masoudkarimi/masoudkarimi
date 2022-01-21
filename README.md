@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm an Android developer with 6-plus years of experience architecting and building cutting-edge Android apps for mobile devices in the e-commerce industry. Developed a [popular app](https://play.google.com/store/apps/details?id=ir.sep.sesoot&hl=en&gl=US) that received over 5M downloads
+
 <!--
 **masoudkarimi/masoudkarimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
