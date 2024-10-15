@@ -1,17 +1,14 @@
 ### Hi there 👋
-I'm an Android developer with 6-plus years of experience architecting and building cutting-edge Android apps for mobile devices in the e-commerce industry. Developed a [popular app](https://play.google.com/store/apps/details?id=ir.sep.sesoot&hl=en&gl=US) that received over 5M downloads
+I'm an Android developer with 7-plus years of experience architecting and building cutting-edge Android apps for mobile devices in the e-commerce industry. Developed a [popular app](https://play.google.com/store/apps/details?id=ir.sep.sesoot&hl=en&gl=US) that received over 5M downloads
 
 ### Feel free to contact me:
 <a href="https://www.linkedin.com/in/masoudk"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/masoud5494"><img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-<a href="https://twitter.com/nejadkarimi"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <a href="mailto://karimi.masoud5494@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ### Blog and posts:
 
 <a href="https://medium.com/@m.karimi"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="https://virgool.io/@m.karimi"><img src="https://img.shields.io/badge/Virgool-blue?style=for-the-badge"/></a>
-<a href="https://dev.to/masoudkarimi"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 <br>
 
 ### Skills
